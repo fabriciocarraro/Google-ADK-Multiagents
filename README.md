@@ -7,6 +7,8 @@ Everything runs on the free Google AI Studio tier — no Google Cloud, no billin
 
 * [Fabrício Carraro](https://www.linkedin.com/in/fabriciocarraro)
 
+![Google ADK](Google-ADK.webp)
+
 ## What you'll build
 
 **1. A briefing generator** — researches any topic on the web, then summarizes it from multiple angles in parallel.
