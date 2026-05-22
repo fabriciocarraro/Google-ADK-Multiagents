@@ -66,6 +66,3 @@ Once open in Colab:
 | 7 | Full briefing pipeline |
 | 8 | RAG + routing — building the internal assistant |
 | 9 | Exercises to extend the system |
-## License
-
-[choose one — MIT and Apache-2.0 are both common for teaching material]
